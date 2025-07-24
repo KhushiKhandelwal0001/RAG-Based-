@@ -1,2 +1,2 @@
-# RAG-Based-
+# RAG-Based
 Deploying RAG
